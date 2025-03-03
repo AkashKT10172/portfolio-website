@@ -10,7 +10,7 @@ import image from "./images/profile.jpg";
 function App() {
   return (
     <>
-      <div className="flex flex-col align-center items-center justify-center bg-stone-800 w-screen min-h-screen">
+      <div className="flex flex-col align-center items-center justify-center bg-stone-800 w-screen min-h-screen p-4">
         <img src={image} alt="akash.jpg" className="h-40 w-40 rounded-full mb-4" />
         <p className="text-center text-white text-2xl font-medium font-serif mb-4">AKASH KUMAR TIWARY</p>
         <p className="text-center text-white">Project & DSA Intern at Crio.Do</p>
