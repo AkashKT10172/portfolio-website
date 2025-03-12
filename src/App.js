@@ -51,8 +51,8 @@ function App() {
             <p className="text-sm text-gray-400"><a href="https://akashwrites.vercel.app/" className="text-blue-400 underline">This</a> is a blog website where I share thoughts on Game of Thrones and other topics.</p>
           </details>
           <details className="text-white mb-2 cursor-pointer bg-gray-800 p-2 rounded-lg">
-            <summary className="font-semibold list-none">URL Shortener(Backend)</summary>
-            <p className="text-sm text-gray-400"><a href="https://github.com/AkashKT10172/url-shortener-backend" className="text-blue-400 underline">This</a> is a URL Shortener(Backend Only) built using Node.js & Express.js</p>
+            <summary className="font-semibold list-none">URL Shortener</summary>
+            <p className="text-sm text-gray-400"><a href="https://url-shortener-nine-nu.vercel.app/" className="text-blue-400 underline">This</a> is a URL Shortener(Backend Only) built using Node.js & Express.js</p>
           </details>
         </div>
         <div className="mt-8">
