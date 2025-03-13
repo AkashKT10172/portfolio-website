@@ -52,7 +52,7 @@ function App() {
           </details>
           <details className="text-white mb-2 cursor-pointer bg-gray-800 p-2 rounded-lg">
             <summary className="font-semibold list-none">URL Shortener</summary>
-            <p className="text-sm text-gray-400"><a href="https://url-shortener-nine-nu.vercel.app/" className="text-blue-400 underline">This</a> is a URL Shortener(Backend Only) built using Node.js & Express.js</p>
+            <p className="text-sm text-gray-400"><a href="https://url-shortener-nine-nu.vercel.app/" className="text-blue-400 underline">This</a> is a URL Shortener built using MERN Stack.</p>
           </details>
         </div>
         <div className="mt-8">
