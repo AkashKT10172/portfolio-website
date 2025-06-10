@@ -71,7 +71,6 @@ function App() {
           <span className="text-white text-md hover:text-gray-500">Ranchi, India</span>
         </div>
         <div className="flex items-center justify-center mb-4">
-          <FontAwesomeIcon icon={faMapMarkerAlt} className="mr-2 text-white hover:text-gray-500" />
              <span className="text-white text-md hover:text-gray-500">Last Updated: 11-06-2025</span>
         </div>
       </div>
