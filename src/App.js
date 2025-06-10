@@ -66,11 +66,11 @@ function App() {
           <a href="https://leetcode.com/u/akash_kt/" target="_blank" rel="noopener noreferrer" className="text-white text-xs underline border-r-2 px-2 hover:text-gray-500">Leetcode</a>
           <a href="https://github.com/AkashKT10172" target="_blank" rel="noopener noreferrer" className="text-white text-xs underline px-2 hover:text-gray-500">Github</a>
         </div>
-        <div className="flex items-center justify-center mt-20 mb-4">
+        <div className="flex items-center justify-center mt-20 mb-2">
           <FontAwesomeIcon icon={faMapMarkerAlt} className="mr-2 text-white hover:text-gray-500" />
           <span className="text-white text-md hover:text-gray-500">Ranchi, India</span>
         </div>
-        <div className="flex items-center justify-center mt-20 mb-4">
+        <div className="flex items-center justify-center mb-4">
           <FontAwesomeIcon icon={faMapMarkerAlt} className="mr-2 text-white hover:text-gray-500" />
              <span className="text-white text-md hover:text-gray-500">Last Updated: 11-06-2025</span>
         </div>
