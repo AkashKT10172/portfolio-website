@@ -35,8 +35,12 @@ function App() {
         <div className="w-3/4 md:w-1/2 lg:w-1/3 text-center mt-4">
           <p className="text-white font-semibold mb-2">My Projects:</p>
           <details className="text-white mb-2 cursor-pointer bg-gray-800 p-2 rounded-lg">
+            <summary className="font-semibold list-none">The Social Hub</summary>
+            <p className="text-sm text-gray-400"><a href="https://the-social-hub.vercel.app/" className="text-blue-400 underline">This</a> is a Full Stack Event Management Platform made using MERN Stack.</p>
+          </details>
+          <details className="text-white mb-2 cursor-pointer bg-gray-800 p-2 rounded-lg">
             <summary className="font-semibold list-none">Chat-A-BIT</summary>
-            <p className="text-sm text-gray-400"><a href="https://chatabit.vercel.app/" className="text-blue-400 underline">This</a> is a Real Time Chat App made using MERN Stack and Socket.io for real-time notifications.</p>
+            <p className="text-sm text-gray-400"><a href="https://chatabit.vercel.app/" className="text-blue-400 underline">This</a> is a Real-time chat App made using MERN Stack and Socket.io for real-time notifications.</p>
           </details>
           <details className="text-white mb-2 cursor-pointer bg-gray-800 p-2 rounded-lg">
             <summary className="font-semibold list-none">Website for Leo Club BIT Mesra</summary>
