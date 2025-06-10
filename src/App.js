@@ -61,14 +61,15 @@ function App() {
         </div>
         <div className="mt-8">
           <a href="https://codeforces.com/profile/green-eyeliner" target="_blank" rel="noopener noreferrer" className="text-white text-xs underline border-r-2 px-2 hover:text-gray-500">Codeforces</a>
-          <a href="https://www.codechef.com/users/sabse_femos" target="_blank" rel="noopener noreferrer" className="text-white text-xs underline border-r-2 px-2 hover:text-gray-500">Codechef</a>
-          <a href="https://drive.google.com/file/d/17Z53XcH0rzljo3CCyo0kxSyXlkikFI5Y/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="text-white text-xs underline border-r-2 px-2 hover:text-gray-500">Resume</a>
+          <a href="https://www.codechef.com/users/akash_kt" target="_blank" rel="noopener noreferrer" className="text-white text-xs underline border-r-2 px-2 hover:text-gray-500">Codechef</a>
+          <a href="https://drive.google.com/drive/folders/15otyqvFbLPDcgv0ABvzMTyEBOWquwf9u" target="_blank" rel="noopener noreferrer" className="text-white text-xs underline border-r-2 px-2 hover:text-gray-500">Resume</a>
           <a href="https://leetcode.com/u/akash_kt/" target="_blank" rel="noopener noreferrer" className="text-white text-xs underline border-r-2 px-2 hover:text-gray-500">Leetcode</a>
           <a href="https://github.com/AkashKT10172" target="_blank" rel="noopener noreferrer" className="text-white text-xs underline px-2 hover:text-gray-500">Github</a>
         </div>
         <div className="flex items-center justify-center mt-20 mb-4">
           <FontAwesomeIcon icon={faMapMarkerAlt} className="mr-2 text-white hover:text-gray-500" />
           <span className="text-white text-md hover:text-gray-500">Ranchi, India</span>
+     <span className="text-white text-md hover:text-gray-500">Last Updated: 11-06-2025</span>
         </div>
       </div>
     </>
